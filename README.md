@@ -1,4 +1,4 @@
-# Ediano Silva Santos - ediano.xyz
+# Ediano Silva Santos - ediano.dev
 
 Desenvolvedor Full Stack Junior
 
