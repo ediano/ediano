@@ -41,6 +41,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile, procuro man
 
 ## Estudando
 * Inglês
+* Kotlin
 * ~Python - Machine Learning e Data Science~
 
 ## Projetos privado
