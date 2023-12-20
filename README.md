@@ -1,6 +1,6 @@
 # Ediano Silva Santos - ediano.dev
 
-Desenvolvedor Full Stack Junior
+Desenvolvedor Full Stack
 
 [![Linkedin](https://img.shields.io/badge/-Ediano%20Silva%20Santos-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ediano/)](https://www.linkedin.com/in/ediano/)
 [![WhatsApp](https://img.shields.io/badge/69933008597-white?style=flat-square&labelColor=white&logo=whatsapp&logoColor=%1ebea5)](https://api.whatsapp.com/send?phone=5569933008597)
@@ -14,29 +14,37 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile, procuro man
 
 > Linguagens
 * JavaScript
+* TypeScript
 
-> Tools
+> Staks
 * Node.js
 * Docker..... Básico apenas para ambiente de desenvolvimento
-
-> Libs/Frameworks
-* React.JS..... TypeScript
-* Next.JS..... TypeScript
-* Express..... TypeScript
-* NestJS..... TypeScript
+* React.JS
+* Next.JS
+* Express
+* NestJS
+* Jest
 * Sequelize
+* Prisma
 * GraphQL
+* Redis
+
+> Deploy
+* Heroku
+* Render
+* Vercel
+* Netlify
 
 > Bancos de dados
 * Postgres SQL
 * Google Firebase..... Pouca experiência
 
 ## Estudando
-* ~Inglês~
+* Inglês
 * ~Python - Machine Learning e Data Science~
 
 ## Projetos privado
-* https://www.alitaquantum.com/
+* https://www.alitaquantum.com
 
 Para ter acesso ao código fonte dos projetos privados por favor faça uma solicitação por e-mail ou [abra um PR aqui](https://github.com/ediano/ediano/pulls)!.
 
