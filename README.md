@@ -13,31 +13,20 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile, procuro man
 ## Experiência
 
 > Linguagens
-* JavaScript
-* TypeScript
+
+    JavaScript, TypeScript, SQL
 
 > Staks
-* Node.js
-* Docker..... Básico apenas para ambiente de desenvolvimento
-* React.JS
-* Next.JS
-* Express
-* NestJS
-* Jest
-* Sequelize
-* Prisma
-* GraphQL
-* Redis
+
+    Node.js, React.JS, Next.JS, Express, NestJS, Jest, Sequelize, Prisma, GraphQL, Redis, Docker
 
 > Deploy
-* Heroku
-* Render
-* Vercel
-* Netlify
+
+    Heroku, Render, Vercel, Netlify
 
 > Bancos de dados
-* Postgres SQL
-* Google Firebase..... Pouca experiência
+
+    Postgres SQL, Google Firebase
 
 ## Estudando
 * Inglês
