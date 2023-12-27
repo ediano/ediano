@@ -12,26 +12,21 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile, procuro man
 
 ## Experiência
 
-> Linguagens
+Linguagens
 
-    JavaScript, TypeScript, SQL
+> JavaScript, TypeScript, SQL
 
-> Staks
+Staks
 
-    Node.js, React.JS, Next.JS, Express, NestJS, Jest, Sequelize, Prisma, GraphQL, Redis, Docker
+> Node.js, React.JS, Next.JS, Express, NestJS, Jest, Sequelize, Prisma, GraphQL, Redis, Docker, Postgres
 
-> Deploy
+Deploy
 
-    Heroku, Render, Vercel, Netlify
-
-> Bancos de dados
-
-    Postgres SQL, Google Firebase
+> Heroku, Render, Vercel, Netlify
 
 ## Estudando
-* Inglês
-* Kotlin
-* ~Python - Machine Learning e Data Science~
+
+> Inglês, Kotlin, ~Python~
 
 ## Projetos privado
 * https://www.alitaquantum.com
