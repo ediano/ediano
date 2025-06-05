@@ -26,7 +26,7 @@ Deploy
 
 ## Estudando
 
-> Inglês, ~Kotlin~, ~Python~
+> ~Inglês~, ~Kotlin~, ~Python~
 
 ## Projetos privado
 * https://www.alitaquantum.com
