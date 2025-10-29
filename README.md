@@ -24,27 +24,4 @@ Deploy
 
 > Heroku, Render, Vercel, Netlify
 
-## Estudando
-
-> ~Inglês~, ~Kotlin~, ~Python~
-
-## Projetos privado
-* https://www.alitaquantum.com
-
-Para ter acesso ao código fonte dos projetos privados por favor faça uma solicitação por e-mail ou [abra um PR aqui](https://github.com/ediano/ediano/pulls)!.
-
-**Apesar de eu estar apenas caminhando, eu ainda sigo alguns princípios para que eu possa alcançar meus objetivos.**
-
-## Objetivos até 2023
-
-* Me integrar diretamente com as tecnologias de data science ou inteligência artificial;
-* Acompanhar mais de perto tecnologias que envolve blockchain;
-
-## Objetivos até 2024
-
-* Ajudar mais pessoas, compartilhar o máximo da minha experiência para contribuir com a formação de novos desenvolvedores;
-* Desenvolver uma carteira fria de criptomoedas;
-* Me integrar diretamente com o mercado de criptomoedas;
-* Sem o mais fluente possível em inglês;
-
 Agora vamos evoluir, o céu não é o limite.
