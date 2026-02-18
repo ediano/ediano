@@ -6,19 +6,19 @@
   <a href="https://www.linkedin.com/in/ediano/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-ediano-0a66c2?style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  
+  <br />
   <a href="https://api.whatsapp.com/send?phone=5569933008597" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-69 9 33008597-white?style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/whatsapp-69 9 33008597-59d06f?style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  
+  <br />
   <a href="https://twitter.com/euediano" target="_blank">
     <img src="https://img.shields.io/badge/twitter-@euediano-1d9bf0?style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  
+  <br />
   <a href="https://www.instagram.com/euediano" target="_blank">
     <img src="https://img.shields.io/badge/instagram-@euediano-ff004b?style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  
+  <br />
   <a href="mailto:silva.ediano.santos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-silva.ediano.santos@gmail.com-cd3c30?style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
