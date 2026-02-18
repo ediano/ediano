@@ -1,12 +1,28 @@
 # Ediano Silva Santos - ediano.dev
 
-Desenvolvedor Full Stack
+## Minhas redes
 
-[![Linkedin](https://img.shields.io/badge/Ediano%20Silva%20Santos-0a66c2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ediano/)](https://www.linkedin.com/in/ediano/)
-[![WhatsApp](https://img.shields.io/badge/69933008597-white?style=flat-square&labelColor=white&logo=whatsapp&logoColor=%1ebea5)](https://api.whatsapp.com/send?phone=5569933008597)
-[![Twitter](https://img.shields.io/badge/@euediano-1d9bf0?style=flat-square&labelColor=1d9bf0&logo=twitter&logoColor=white&link=https://twitter.com/euediano)](https://twitter.com/euediano)
-[![Instagram](https://img.shields.io/badge/@euediano-ff004b?style=flat-square&labelColor=ff004b&logo=instagram&logoColor=white&link=https://www.instagram.com/euediano)](https://www.instagram.com/euediano)
-[![Gmail](https://img.shields.io/badge/silva.ediano.santos@gmail.com-cd3c30?style=flat-square&logo=gmail&logoColor=white&link=mailto:silva.ediano.santos@gmail.com)](mailto:silva.ediano.santos@gmail.com)
+<div style="display:flex;flex-direction:column;gap:1rem">
+  <a href="https://www.linkedin.com/in/ediano/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-ediano-0a66c2?style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5569933008597" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-69 9 33008597-white?style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  
+  <a href="https://twitter.com/euediano" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-@euediano-1d9bf0?style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  
+  <a href="https://www.instagram.com/euediano" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-@euediano-ff004b?style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  
+  <a href="mailto:silva.ediano.santos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-silva.ediano.santos@gmail.com-cd3c30?style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
 Entusiasta das melhores tecnologias de desenvolvimento web e mobile, procuro manter a mente sempre aberta para acompanhar as novidades do mercado.
 
@@ -14,14 +30,33 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile, procuro man
 
 Linguagens
 
-> JavaScript, TypeScript, SQL
+> <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />,
+> <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />,
 
 Staks
 
-> Node.js, React.JS, Next.JS, Express, NestJS, Jest, Sequelize, Prisma, GraphQL, Redis, Docker, Postgres
+> <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />,
+> <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />,
+> <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />,
+> <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />,
+> <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />,
+> <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />,
+> <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"  />,
+> <img src="https://skillicons.dev/icons?i=sequelize" height="30" alt="sequelize logo"  />,
+> <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />,
+> <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />,
+> <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />,
+> <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />,
+> <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo"  />,
+> <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />,
+> <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />,
+
 
 Deploy
 
-> Heroku, Render, Vercel, Netlify
+> <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  />,
+> Render,
+> <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />,
+> <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
 
 Agora vamos evoluir, o céu não é o limite.
