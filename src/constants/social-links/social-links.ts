@@ -1,4 +1,4 @@
-import { LinkedinLogo, GithubLogo, InstagramLogo, TwitterLogo } from '@/use-client-packages/phosphor';
+import { LinkedinLogo, GithubLogo, InstagramLogo, TwitterLogo, ArchiveIcon } from '@/use-client-packages/phosphor';
 
 export const SOCIAL_LINKS = [
   {
@@ -24,5 +24,11 @@ export const SOCIAL_LINKS = [
     username: '@' + process.env.SOCIAL_LINK_TWITTER,
     url: `https://twitter.com/${process.env.SOCIAL_LINK_TWITTER}`,
     Icon: TwitterLogo,
+  },
+  {
+    name: 'Blog',
+    username: 'Blog',
+    url: process.env.SOCIAL_LINK_BLOG,
+    Icon: ArchiveIcon,
   },
 ];
