@@ -3,6 +3,10 @@
 ## Minhas redes
 
 <div style="display:flex;flex-direction:column;gap:1rem">
+  <a href="https://www.ediano.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/site-ediano.dev-6b21a8?style=for-the-badge" height="35" alt="website logo"  />
+  </a>
+  <br />
   <a href="https://www.linkedin.com/in/ediano/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-ediano-0a66c2?style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
