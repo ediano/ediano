@@ -1,66 +1,37 @@
-# Ediano Silva Santos - ediano.dev
+# Ediano Silva Santos
 
-## Minhas redes
+Engenheiro de software full stack em Porto Velho, RO. Construo APIs, microsserviços e aplicações web com TypeScript, Node.js, NestJS, React e Next.js, e automatizo processos com n8n.
 
-<div style="display:flex;flex-direction:column;gap:1rem">
-  <a href="https://www.ediano.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/site-ediano.dev-6b21a8?style=for-the-badge" height="35" alt="website logo"  />
-  </a>
-  <br />
-  <a href="https://www.linkedin.com/in/ediano/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-ediano-0a66c2?style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <br />
-  <a href="https://api.whatsapp.com/send?phone=5569933008597" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-69 9 33008597-59d06f?style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <br />
-  <a href="https://twitter.com/euediano" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-@euediano-1d9bf0?style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <br />
-  <a href="https://www.instagram.com/euediano" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-@euediano-ff004b?style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <br />
-  <a href="mailto:silva.ediano.santos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-silva.ediano.santos@gmail.com-cd3c30?style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+## Links
 
-Entusiasta das melhores tecnologias de desenvolvimento web e mobile, procuro manter a mente sempre aberta para acompanhar as novidades do mercado.
+Site: [ediano.dev](https://www.ediano.dev/)
 
-## Experiência
+LinkedIn: [linkedin.com/in/ediano](https://www.linkedin.com/in/ediano/)
 
-Linguagens
+E-mail: silva.ediano.santos@gmail.com
 
-> <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />,
-> <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />,
+## Projetos em destaque
 
-Staks
+[RunnerBox CI](https://github.com/ediano/runnerbox-ci): painel local, em container Docker, para gerenciar self-hosted runners do GitHub Actions e do GitLab CI. Imagem publicada no Docker Hub.
 
-> <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />,
-> <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />,
-> <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />,
-> <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />,
-> <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />,
-> <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />,
-> <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"  />,
-> <img src="https://skillicons.dev/icons?i=sequelize" height="30" alt="sequelize logo"  />,
-> <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />,
-> <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />,
-> <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />,
-> <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />,
-> <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo"  />,
-> <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />,
-> <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />,
+OmniCanvas Privacy: extensão que borra dados sensíveis em tempo real durante o compartilhamento de tela no WhatsApp, Slack, Discord e ecossistema Meta.
 
+[Código dos vídeos do meu canal no YouTube](https://github.com/ediano-youtube): exemplos práticos de NestJS, RabbitMQ, Redis, GraphQL e testes automatizados.
 
-Deploy
+## Stack
 
-> <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  />,
-> Render,
-> <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />,
-> <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
+Linguagens: TypeScript e JavaScript
+
+Back-end: Node.js, NestJS, Express, Prisma, Sequelize, GraphQL, RabbitMQ e Redis
+
+Front-end: React, Next.js e Tailwind CSS
+
+Banco de dados: PostgreSQL
+
+Infra e testes: Docker, GitHub Actions e Jest
+
+Automação: n8n
+
+Deploy: Vercel, Netlify, Heroku e Render
 
 Agora vamos evoluir, o céu não é o limite.
